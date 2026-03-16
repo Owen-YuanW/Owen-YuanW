@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Yuan Wang](https://github.com/Owen-YuanW) 👨‍💻
+### Hi there 👋, I'm [OwenW](https://github.com/Owen-YuanW) 👨‍💻
 
 <br/>
 
@@ -66,17 +66,41 @@ Aspiring to become a full-time freelance cybersecurity professional 💸 and ope
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
 ### 🕸️ CVEs Discovered
-<!-- 
+
 <div>
-  <a href="https://nvd.nist.gov/vuln/detail/CVE-2024-33445">
-    <img src="https://img.shields.io/badge/CVE--2024--33445-XSS%20in%20Chrome-yellow?style=for-the-badge&logo=googlechrome" />
+  <a href="https://www.cve.org/CVERecord?id=CVE-2026-3486">
+    <img src="https://img.shields.io/badge/CVE--2026--3486-SQL%20Injection%20in%20OpenSourceProject-red?style=for-the-badge&logo=openssl" />
   </a>
   <br/>
-  <a href="https://nvd.nist.gov/vuln/detail/CVE-2024-55667">
-    <img src="https://img.shields.io/badge/CVE--2024--55667-Buffer%20Overflow%20in%20OpenSSL-red?style=for-the-badge&logo=openssl" />
+  <a href="https://www.cve.org/CVERecord?id=CVE-2026-3487">
+    <img src="https://img.shields.io/badge/CVE--2026--3487-SQL%20Injection%20in%20OpenSourceProject-red?style=for-the-badge&logo=openssl" />
+  </a>
+  <br/>
+  <a href="https://www.cve.org/CVERecord?id=CVE-2026-3705">
+    <img src="https://img.shields.io/badge/CVE--2026--3705-SQL%20Injection%20in%20OpenSourceProject-red?style=for-the-badge&logo=openssl" />
+  </a>
+  <br/>
+  <a href="https://www.cve.org/CVERecord?id=CVE-2026-3708">
+    <img src="https://img.shields.io/badge/CVE--2026--3708-SQL%20Injection%20in%20OpenSourceProject-red?style=for-the-badge&logo=openssl" />
+  </a>
+  <br/>
+  <a href="https://www.cve.org/CVERecord?id=CVE-2026-3709">
+    <img src="https://img.shields.io/badge/CVE--2026--3709-SQL%20Injection%20in%20OpenSourceProject-red?style=for-the-badge&logo=openssl" />
+  </a>
+  <br/>
+  <a href="https://www.cve.org/CVERecord?id=CVE-2026-3710">
+    <img src="https://img.shields.io/badge/CVE--2026--3710-SQL%20Injection%20in%20OpenSourceProject-red?style=for-the-badge&logo=openssl" />
+  </a>
+  <br/>
+  <a href="https://www.cve.org/CVERecord?id=CVE-2026-3711">
+    <img src="https://img.shields.io/badge/CVE--2026--3711-SQL%20Injection%20in%20OpenSourceProject-red?style=for-the-badge&logo=openssl" />
+  </a>
+  <br/>
+  <a href="https://www.cve.org/CVERecord?id=CVE-2026-3723">
+    <img src="https://img.shields.io/badge/CVE--2026--3723-SQL%20Injection%20in%20OpenSourceProject-red?style=for-the-badge&logo=openssl" />
   </a>
 </div>
--->
+
 
   <!-- 装饰性星星 -->
   <br/>
