@@ -71,7 +71,6 @@ Aspiring to become a full-time freelance cybersecurity professional 💸 and ope
   <a href="https://www.cve.org/CVERecord?id=CVE-2026-3486">
     <img src="https://img.shields.io/badge/CVE--2026--3486-SQL%20Injection%20in%20OpenSourceProject-red?style=for-the-badge&logo=openssl" />
   </a>
-  <br/>
   <a href="https://www.cve.org/CVERecord?id=CVE-2026-3487">
     <img src="https://img.shields.io/badge/CVE--2026--3487-SQL%20Injection%20in%20OpenSourceProject-red?style=for-the-badge&logo=openssl" />
   </a>
