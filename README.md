@@ -78,7 +78,6 @@ Aspiring to become a full-time freelance cybersecurity professional 💸 and ope
   <a href="https://www.cve.org/CVERecord?id=CVE-2026-3705">
     <img src="https://img.shields.io/badge/CVE--2026--3705-SQL%20Injection%20in%20OpenSourceProject-red?style=for-the-badge&logo=openssl" />
   </a>
-  <br/>
   <a href="https://www.cve.org/CVERecord?id=CVE-2026-3708">
     <img src="https://img.shields.io/badge/CVE--2026--3708-SQL%20Injection%20in%20OpenSourceProject-red?style=for-the-badge&logo=openssl" />
   </a>
@@ -86,7 +85,6 @@ Aspiring to become a full-time freelance cybersecurity professional 💸 and ope
   <a href="https://www.cve.org/CVERecord?id=CVE-2026-3709">
     <img src="https://img.shields.io/badge/CVE--2026--3709-SQL%20Injection%20in%20OpenSourceProject-red?style=for-the-badge&logo=openssl" />
   </a>
-  <br/>
   <a href="https://www.cve.org/CVERecord?id=CVE-2026-3710">
     <img src="https://img.shields.io/badge/CVE--2026--3710-SQL%20Injection%20in%20OpenSourceProject-red?style=for-the-badge&logo=openssl" />
   </a>
@@ -94,7 +92,6 @@ Aspiring to become a full-time freelance cybersecurity professional 💸 and ope
   <a href="https://www.cve.org/CVERecord?id=CVE-2026-3711">
     <img src="https://img.shields.io/badge/CVE--2026--3711-SQL%20Injection%20in%20OpenSourceProject-red?style=for-the-badge&logo=openssl" />
   </a>
-  <br/>
   <a href="https://www.cve.org/CVERecord?id=CVE-2026-3723">
     <img src="https://img.shields.io/badge/CVE--2026--3723-SQL%20Injection%20in%20OpenSourceProject-red?style=for-the-badge&logo=openssl" />
   </a>
